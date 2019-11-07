@@ -2,9 +2,9 @@
 
 São Paulo - Osasco <br>
 Celular:(11) 94495-4987, Fixo: (11)3655-4465 <br>
-E-mail:senasilvaanapaula@gmail.com <br>
-Linkedin:https://www.linkedin.com/in/paula-sena-b86a19175/ <br>
-Github:https://github.com/PaulaSena <br>
+E-mail:[senasilvaanapaula@gmail.com](senasilvaanapaula@gmail.com) <br>
+Linkedin:[https://www.linkedin.com/in/paula-sena-b86a19175/](https://www.linkedin.com/in/paula-sena-b86a19175/) <br>
+Github:[https://github.com/PaulaSena](https://github.com/PaulaSena) <br>
 Site: [https://paulasena.github.io/Curriculo-TI/](https://paulasena.github.io/Curriculo-TI/)<br>
       [https://paulasena.github.io/sample-page/](https://paulasena.github.io/sample-page/)<br>
 
@@ -32,7 +32,7 @@ Duração 1 ano e 6 meses em 2014. (Concluído).
 
 ####		Front End 25/02/19 - 25/03/19. (Concluído).
 > Desenvolvimento de um Site referente aos óculos Google glass, realizado com utilização de Html5 para dar estrutura do site, Css3 para estilizar e modelar,JavaScript para criar conteúdo interativo. 
-Link do projeto github:https://paulasena.github.io/site-html5/.
+Link do projeto github:https://paulasena.github.io/Site-GogleGlass/.
 
 
 ####	Back End Java 2019 - (Em andamento).
@@ -42,7 +42,7 @@ Link projeto github:https://github.com/PaulaSena/Barbearia.
 
 ####	Back End JavaSpring Boot 2019 - (Em andamento).
 > Desenvolvimento de um aplicativo em Spring Boot no eclipse. Permite que crie eventos com informações do local e data e cadastrar pessoas para o evento.
-Link Projeto github:https://github.com/PaulaSena/Curso-Spring-Boot.
+Link Projeto github:[https://github.com/PaulaSena/Curso-Spring-Boot.]()
 
 ### EXPERIÊNCIA PROFISSIONAL
 
