@@ -30,7 +30,7 @@ Duração 1 ano e 6 meses em 2014. (Concluído).
 
 ####		Front End 25/02/19 - 25/03/19. (Concluído).
 > Desenvolvimento de um Site referente aos óculos Google glass, realizado com utilização de Html5 para dar estrutura do site, Css3 para estilizar e modelar,JavaScript para criar conteúdo interativo. 
-Link do projeto github:https://paulasena.github.io/Site-GoogleGlass/.
+Link do projeto github:[https://paulasena.github.io/Site-GoogleGlass/](https://paulasena.github.io/Site-GoogleGlass/)
 
 
 ####	Back End Java 2019 - (Em andamento).
