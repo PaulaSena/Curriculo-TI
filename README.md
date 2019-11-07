@@ -1,17 +1,19 @@
 # ANA PAULA SENA DA SILVA
 
-São Paulo - Osasco.
-Celular:(11) 94495-4987, Fixo: (11)3655-4465.
-E-mail:senasilvaanapaula@gmail.com.
-Linkedin:https://www.linkedin.com/in/paula-sena-b86a19175/.
-Github:https://github.com/PaulaSena.
-Site: https://paulasena.github.io/sample-page/ . 
+São Paulo - Osasco <br>
+Celular:(11) 94495-4987, Fixo: (11)3655-4465 <br>
+E-mail:senasilvaanapaula@gmail.com <br>
+Linkedin:https://www.linkedin.com/in/paula-sena-b86a19175/ <br>
+Github:https://github.com/PaulaSena <br>
+Site: https://paulasena.github.io/sample-page/ <br>
 
 
 ### OBJETIVO
 
 Desejo fazer parte de uma equipe, encarar novos desafios com o propósito de colocar em prática as experiências que adquiro. Tenho facilidade no aprendizado e capacidade de trabalhar sobre pressão.
-FORMAÇÃO
+
+
+### FORMAÇÃO
 
 ####	Faculdade: Anhanguera - (Osasco).
 Analise e Desenvolvimento de Sistemas (Cursando 1° semestre).
@@ -35,7 +37,7 @@ Desenvolvimento de uma aplicação desktop de uma Barbearia BarberShop projeto s
 Link projeto github:https://github.com/PaulaSena/Barbearia.
 
 
-####	Back End JavaSpring Boot 2019 - (Em andamento).
+ >	Back End JavaSpring Boot 2019 - (Em andamento).
 Desenvolvimento de um aplicativo em Spring Boot no eclipse. Permite que crie eventos com informações do local e data e cadastrar pessoas para o evento.
 Link Projeto github:https://github.com/PaulaSena/Curso-Spring-Boot.
 
@@ -46,8 +48,24 @@ Atribuições: Atendimento do 1°nível de Microinformática realizava, acesso r
 
 ### HABILIDADES:
 
-Programação: Front End - HTML5, CSS3, JavaScript (Básico).
-Programação: Back End - Java, MySQL, Python (Cursando).
-Versionamento: Git.
-Gráficos/Web: Adobe Ilustrator, Adobe Photoshop - (Básico).
-Sistema Operacional: Microsoft Windows e Internet, Software Microsoft Office (Word; Power Point; Excel).
+#### Programação Front End:
+- HTML5      (Básico)
+- CSS3       (Básico)
+- JavaScript (Básico)
+
+#### Programação Back End
+- Java   (Iniciante)
+- MySQL  (Iniciante)
+- Python (Iniciante)
+
+#### Versionamento:
+- Git (Iniciante)
+
+#### Gráficos/Web:
+- Adobe Ilustrator (Básico)
+- Adobe Photoshop  (Básico)
+
+#### Sistema Operacional:
+- Microsoft Windows 
+- Internet
+- Software Microsoft Office (Word; Power Point; Excel).
