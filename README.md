@@ -5,10 +5,8 @@ Celular:(11) 94495-4987, Fixo: (11)3655-4465 <br>
 E-mail:[senasilvaanapaula@gmail.com](senasilvaanapaula@gmail.com) <br>
 Linkedin:[https://www.linkedin.com/in/paula-sena-b86a19175/](https://www.linkedin.com/in/paula-sena-b86a19175/) <br>
 Github:[https://github.com/PaulaSena](https://github.com/PaulaSena) <br>
-Site: [https://paulasena.github.io/Curriculo-TI/](https://paulasena.github.io/Curriculo-TI/)<br>
-      [https://paulasena.github.io/sample-page/](https://paulasena.github.io/sample-page/)<br>
-
-
+Site:  [https://paulasena.github.io/Curriculo-TI/](https://paulasena.github.io/Curriculo-TI/)<br>
+      
 
 
 ### OBJETIVO
