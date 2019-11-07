@@ -8,7 +8,7 @@ Github:https://github.com/PaulaSena.
 Site: https://paulasena.github.io/sample-page/ . 
 
 
-###OBJETIVO
+### OBJETIVO
 
 Desejo fazer parte de uma equipe, encarar novos desafios com o propósito de colocar em prática as experiências que adquiro. Tenho facilidade no aprendizado e capacidade de trabalhar sobre pressão.
 FORMAÇÃO
@@ -27,7 +27,7 @@ Duração 1 ano e 6 meses em 2014. (Concluído).
 
 ####		Front End 25/02/19 - 25/03/19. (Concluído).
 Desenvolvimento de um Site referente aos óculos Google glass, realizado com utilização de Html5 para dar estrutura do site, Css3 para estilizar e modelar,JavaScript para criar conteúdo interativo. 
-Link do projeto github:https://github.com/PaulaSena/site-html5.
+Link do projeto github:https://paulasena.github.io/site-html5/.
 
 
 ####	Back End Java 2019 - (Em andamento).
