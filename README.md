@@ -1,11 +1,12 @@
 # ANA PAULA SENA DA SILVA
 
 São Paulo - Osasco <br>
-Celular:(11) 94495-4987, Fixo: (11)3655-4465 <br>
+Celular:(11) 951462265, Fixo: (11)3655-4465 <br>
 E-mail:[senasilvaanapaula@gmail.com](senasilvaanapaula@gmail.com) <br>
 Linkedin:[https://www.linkedin.com/in/paula-sena-b86a19175/](https://www.linkedin.com/in/paula-sena-b86a19175/) <br>
 Github:[https://github.com/PaulaSena](https://github.com/PaulaSena) <br>
-Site:  [https://paulasena.github.io/Curriculo-TI/](https://paulasena.github.io/Curriculo-TI/)<br>
+Pages:[https://paulasena.github.io/Curriculo-TI/](https://paulasena.github.io/Curriculo-TI/)<br>
+      [https://paulasena.github.io/Ecoleta/](https://paulasena.github.io/Ecoleta/)<br>
       
 
 
@@ -17,7 +18,7 @@ Site:  [https://paulasena.github.io/Curriculo-TI/](https://paulasena.github.io/C
 ### FORMAÇÃO
 
 ####	Faculdade: Anhanguera - (Osasco).
-> Analise e Desenvolvimento de Sistemas (Cursando 1° semestre).
+> Analise e Desenvolvimento de Sistemas (Trancado).
 
 ####	Curso Técnico: Informática - (FIEB - Barueri).
 > Eixo Tecnológico: Informática e comunicação (Ênfase Java).
@@ -33,14 +34,10 @@ Duração 1 ano e 6 meses em 2014. (Concluído).
 Link do projeto github:[https://paulasena.github.io/Site-GoogleGlass/](https://paulasena.github.io/Site-GoogleGlass/)
 
 
-####	Back End Java 2019 - (Em andamento).
-> Desenvolvimento de uma aplicação desktop de uma Barbearia BarberShop projeto sendo realizado em JavaForms no netbeans utilizando a estrutura MVC. Objetivo é encaminhar um email para o cliente notificando horário do seu agendamento.
-Link projeto github:https://github.com/PaulaSena/Barbearia.
+####		Front End  inicio 01/05/2020 - (Em Andamento).
 
-
-####	Back End JavaSpring Boot 2019 - (Em andamento).
-> Desenvolvimento de um aplicativo em Spring Boot no eclipse. Permite que crie eventos com informações do local e data e cadastrar pessoas para o evento.
-Link Projeto github:[https://github.com/PaulaSena/Curso-Spring-Boot.]()
+> Next Level Week - Desenvolvimento de uma aplicação para a Semana do Meio Âmbiente o sistema busca os pontos para coleta de resíduos.
+Link do projeto github:[https://github.com/PaulaSena/Ecoleta/](https://github.com/PaulaSena/Ecoleta/)
 
 ### EXPERIÊNCIA PROFISSIONAL
 
@@ -57,6 +54,7 @@ Link Projeto github:[https://github.com/PaulaSena/Curso-Spring-Boot.]()
 
 #### Programação Back End
 >
+- Json   (Iniciante)
 - Java   (Iniciante)
 - MySQL  (Iniciante)
 - Python (Iniciante)
