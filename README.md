@@ -1,7 +1,7 @@
 # ANA PAULA SENA DA SILVA
 
 São Paulo - Osasco <br>
-Celular:(11) 951462265, Fixo: (11)3655-4465 <br>
+Celular:(11) 944954987, Fixo: (11)3655-4465 <br>
 E-mail:[senasilvaanapaula@gmail.com](senasilvaanapaula@gmail.com) <br>
 Linkedin:[https://www.linkedin.com/in/paula-sena-b86a19175/](https://www.linkedin.com/in/paula-sena-b86a19175/) <br>
 Github:[https://github.com/PaulaSena](https://github.com/PaulaSena) <br>
@@ -17,8 +17,8 @@ Pages:[https://paulasena.github.io/Curriculo-TI/](https://paulasena.github.io/Cu
 
 ### FORMAÇÃO
 
-####	Faculdade: Anhanguera - (Osasco).
-> Analise e Desenvolvimento de Sistemas (Trancado).
+####	Faculdade:Unip.
+> Gestão de tecnologia da informação.
 
 ####	Curso Técnico: Informática - (FIEB - Barueri).
 > Eixo Tecnológico: Informática e comunicação (Ênfase Java).
@@ -48,12 +48,14 @@ Link do projeto github:[https://github.com/PaulaSena/Ecoleta/](https://github.co
 
 #### Programação Front End:
 >
+- OutSystems (Iniciante)
 - HTML5      (Básico)
 - CSS3       (Básico)
 - JavaScript (Básico)
 
 #### Programação Back End
 >
+- OutSystems (Iniciante)
 - Json   (Iniciante)
 - Java   (Iniciante)
 - MySQL  (Iniciante)
@@ -71,6 +73,6 @@ Link do projeto github:[https://github.com/PaulaSena/Ecoleta/](https://github.co
 
 #### Sistema Operacional:
 >
-- Microsoft Windows 
+- Microsoft Windows e Linux 
 - Internet
 - Software Microsoft Office (Word; Power Point; Excel).
