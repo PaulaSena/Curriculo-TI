@@ -1,7 +1,6 @@
 # ANA PAULA SENA DA SILVA
 
-São Paulo - Osasco <br>
-Celular:(11) 944954987, Fixo: (11)3655-4465 <br>
+São Paulo - Osasco/Cotia <br>
 E-mail:[senasilvaanapaula@gmail.com](senasilvaanapaula@gmail.com) <br>
 Linkedin:[https://www.linkedin.com/in/paula-sena-b86a19175/](https://www.linkedin.com/in/paula-sena-b86a19175/) <br>
 Github:[https://github.com/PaulaSena](https://github.com/PaulaSena) <br>
