@@ -47,28 +47,28 @@ Link do projeto github:[https://github.com/PaulaSena/Ecoleta/](https://github.co
 
 #### Programação Front End:
 >
-- OutSystems (Iniciante)
-- HTML5      (Básico)
-- CSS3       (Básico)
-- JavaScript (Básico)
+- OutSystems 
+- HTML5     
+- CSS3      
+- JavaScript 
 
 #### Programação Back End
 >
-- OutSystems (Iniciante)
-- Json   (Iniciante)
-- Java   (Iniciante)
-- MySQL  (Iniciante)
-- Python (Iniciante)
+- OutSystems 
+- Json  
+- Java   
+- MySQL 
+- Python
 
 #### Versionamento:
 >
-- Git (Iniciante)
-   - Markdown (Iniciante)
+- Git 
+   - Markdown 
 
 #### Gráficos/Web:
 >
-- Adobe Ilustrator (Básico)
-- Adobe Photoshop  (Básico)
+- Adobe Ilustrator 
+- Adobe Photoshop  
 
 #### Sistema Operacional:
 >
